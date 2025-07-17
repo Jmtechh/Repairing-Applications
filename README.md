@@ -7,11 +7,11 @@
 
 <h2>Utilities Used</h2>
 
-- <b>Windows ISO</b> 
+- <b>Control panel</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10 OS</b>
+- <b>Windows 10 </b>
 
 <h2>Program walk-through:</h2>
 
