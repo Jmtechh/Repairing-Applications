@@ -15,9 +15,9 @@ A quick and simple way to repair applications on your PC.
 
 <h2>Program walk-through:</h2>
 
-If for whatever reason your application is not running propery. You can head over to the control panel and look for program and features.
+If your application isn’t functioning properly for any reason, you can open the Control Panel and navigate to Programs and Features.
 
-Here you can find the program that is giving trouble and run a quick repair. This is a possible solution to errors in a program.
+There, you can locate the problematic program and run a quick repair. This often resolves common errors and issues with the software.
 
 <img src="https://i.imgur.com/tnUlQ6q.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
